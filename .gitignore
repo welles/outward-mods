@@ -3,6 +3,13 @@
 /BepInEx/config/DTSOutwardTweaks/*/pinnedBagItems.dat
 /BepInEx/config/DTSOutwardTweaks/*/pinnedPouchItems.dat
 /BepInEx/config/DTSOutwardTweaks/*/pinnedSkills.dat
+/BepInEx/config/ModifAmorphic.Outward.ActionUI/profiles/*/Default/ArmorSets.json
+/BepInEx/config/ModifAmorphic.Outward.ActionUI/profiles/*/Default/Hotbars.json
+/BepInEx/config/ModifAmorphic.Outward.ActionUI/profiles/*/Default/KeyboardMap_ActionSlots.xml
+/BepInEx/config/ModifAmorphic.Outward.ActionUI/profiles/*/Default/Mouse_ActionSlots.xml
+/BepInEx/config/ModifAmorphic.Outward.ActionUI/profiles/*/Default/UIPositions.json
+/BepInEx/config/ModifAmorphic.Outward.ActionUI/profiles/*/Default/WeaponSets.json
+/BepInEx/config/ModifAmorphic.Outward.ActionUI/profiles/*/profile.json
 /BepInEx/LogOutput.log
 /ControllerAssignation.json
 /MonoBleedingEdge/
